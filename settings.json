@@ -1,0 +1,117 @@
+{
+  "editor.suggestSelection": "first",
+    "sonarlint.ls.javaHome": "c:\\Users\\Shivam\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.9.1+1-jre",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Night Wolf [black]",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'cascadia code'",  
+  "terminal.integrated.fontFamily": "Inconsolata Awesome",  
+  // "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "emmet.preferences": {
+  
+  },
+  "typescript.suggest.paths": false,
+  "bracket-pair-colorizer-2.colors": [
+    "Gold",
+    "Orchid",
+    "LightSkyBlue"
+],
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "C_Cpp.updateChannel": "Insiders",
+  "editor.cursorSmoothCaretAnimation": true,
+  "terminal.integrated.cursorBlinking": true,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "debug.javascript.autoAttachFilter": "disabled",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "codestats.apikey": "SFMyNTY.YzJocGRtRnRhelJ5IyNNVE13TVRVPQ.ciabnUgGKE13OspqcF3CaoIO52NqenjaWhmruw3ohMg",
+  "codestats.username": "shivamk4r",
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "cSpell.userWords": [
+    "APPL",
+    "GTFO",
+    "Preselection",
+    "create",
+    "crules",
+    "dataplatform",
+    "dbcp",
+    "drules",
+    "finalizeload",
+    "firestore",
+    "nifi",
+    "nipyapi",
+    "pgid",
+    "preselections",
+    "roport",
+    "rwport",
+    "schemaname",
+    "scopeload",
+    "shivam",
+    "sslrootcert",
+    "tablename",
+    "viewname",
+    "vuefire",
+    "vuex"
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": null,
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "yaml.schemas": {
+    "file:///Users/shivamkapoor/.vscode/extensions/atlassian.atlascode-2.10.11/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "atlascode.jira.jqlList": [
+    {
+      "id": "fb9b1249-0e1e-4262-ae35-af65623c7337",
+      "enabled": true,
+      "name": "My zeta-tm Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "1b276d92-d438-459c-b4b7-50404feba53b",
+      "monitor": true
+    }
+  ],
+  "vs-kubernetes": {
+    "vscode-kubernetes.minikube-path.mac": "/Users/shivamkapoor/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+  },
+  "cSpell.enableFiletypes": [
+    "sql"
+  ],
+  "editor.largeFileOptimizations": false,
+  "editor.fontSize": 15,
+  "editor.semanticTokenColorCustomizations": null,
+    // Duration in milliseconds for the cursor to travel from one character position (or line) to the next.
+}
